@@ -1,0 +1,6 @@
+Las APIs son fundamentales para que las comunidades puedan compartir información de forma estructurada. 
+Permiten que los datos, reportes o alertas lleguen a un servidor centralizado y puedan ser consultados 
+por todos los miembros de manera consistente. Además, facilitan la integración con otras aplicaciones 
+o sistemas, lo que permite ampliar la visibilidad de la información y mejorar la coordinación. 
+El uso de rutas GET y POST asegura que la información pueda consultarse y enviarse de manera segura. 
+Esto fortalece la colaboración, la transparencia y el acceso equitativo a la información dentro de la comunidad.
