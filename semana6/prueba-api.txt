@@ -1,4 +1,6 @@
-Se realizó una petición POST a la ruta /registro utilizando un objeto JSON con los campos "nombre" y "mensaje". El servidor recibió correctamente la información enviada y respondió con un objeto JSON que confirma que los datos fueron recibidos.
+Se realizó una petición POST a la ruta /registro utilizando un objeto JSON con los campos "nombre" y "mensaje". 
+El servidor recibió correctamente la información enviada y respondió con un objeto JSON que confirma que los 
+datos fueron recibidos.
 
 Respuesta obtenida:
 
@@ -8,4 +10,5 @@ Respuesta obtenida:
   "mensaje": "Hola comunidad"
 }
 
-Esta prueba demuestra que la aplicación puede recibir datos enviados por el usuario mediante una petición POST y acceder a ellos utilizando req.body en Express.
+Esta prueba demuestra que la aplicación puede recibir datos enviados por el usuario mediante una 
+petición POST y acceder a ellos utilizando req.body en Express.
