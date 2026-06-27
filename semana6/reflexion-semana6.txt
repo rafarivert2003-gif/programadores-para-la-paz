@@ -1,1 +1,8 @@
-Las plataformas tecnológicas deben permitir que los ciudadanos envíen información de forma estructurada para facilitar su procesamiento y organización. El uso de JSON hace posible que los datos sean claros y fáciles de interpretar por las aplicaciones. Esto ayuda a registrar reportes de manera ordenada y evita la pérdida de información importante. Además, permite que las entidades respondan con mayor rapidez a las necesidades de la comunidad. Recibir incidencias mediante formularios estructurados mejora la comunicación entre ciudadanos e instituciones. También facilita el análisis de los datos para identificar problemas frecuentes y tomar mejores decisiones. El uso de Express y req.body demuestra cómo una aplicación puede recibir información enviada por los usuarios de forma sencilla. En conclusión, las tecnologías que reciben datos estructurados contribuyen a construir servicios más eficientes, organizados y útiles para la sociedad.
+Las plataformas tecnológicas deben permitir que los ciudadanos envíen información de forma estructurada para facilitar su procesamiento y 
+organización. El uso de JSON hace posible que los datos sean claros y fáciles de interpretar por las aplicaciones. Esto ayuda a registrar 
+reportes de manera ordenada y evita la pérdida de información importante. Además, permite que las entidades respondan con mayor rapidez a 
+las necesidades de la comunidad. Recibir incidencias mediante formularios estructurados mejora la comunicación entre ciudadanos e 
+instituciones. También facilita el análisis de los datos para identificar problemas frecuentes y tomar mejores decisiones. 
+El uso de Express y req.body demuestra cómo una aplicación puede recibir información enviada por los usuarios de forma sencilla. 
+En conclusión, las tecnologías que reciben datos estructurados contribuyen a construir servicios más eficientes, organizados y útiles 
+para la sociedad.
