@@ -1,0 +1,8 @@
+Las plataformas tecnológicas que permiten registrar y consultar reportes comunitarios facilitan la comunicación entre los ciudadanos 
+y las entidades responsables. Contar con información organizada ayuda a identificar problemas de manera más rápida y eficiente. 
+Además, permite realizar seguimiento a las incidencias reportadas y mejorar la toma de decisiones. El uso de APIs y estructuras 
+como los arrays demuestra cómo es posible almacenar y consultar información de forma sencilla. Este tipo de herramientas contribuye 
+a una gestión más transparente y participativa de la comunidad. También favorece la colaboración entre los habitantes para resolver 
+problemas comunes. Aunque en esta práctica los datos se almacenan únicamente en memoria, representa un primer paso hacia el desarrollo 
+de aplicaciones más completas. En conclusión, registrar y consultar información mediante una API fortalece la organización y el acceso 
+a los datos dentro de una comunidad.
