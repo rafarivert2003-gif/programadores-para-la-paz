@@ -1,0 +1,15 @@
+Se realizó una prueba utilizando la ruta POST /reportes para registrar un nuevo reporte comunitario. Posteriormente, se consultó la 
+ruta GET /reportes y el servidor devolvió la lista de reportes almacenados en memoria.
+
+Respuesta obtenida al consultar la ruta GET:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Esta prueba demuestra que los reportes enviados mediante POST se almacenan temporalmente en un array y pueden consultarse utilizando 
+una petición GET mientras el servidor permanece en ejecución.
