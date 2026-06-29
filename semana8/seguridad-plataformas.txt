@@ -1,0 +1,5 @@
+1. Proteger las credenciales de los usuarios mediante contraseñas seguras.
+2. No exponer datos personales o información sensible de los ciudadanos.
+3. Utilizar conexiones seguras mediante protocolos como HTTPS.
+4. Registrar los accesos y actividades importantes para facilitar auditorías.
+5. Limitar el acceso a la información únicamente a los usuarios autorizados.
