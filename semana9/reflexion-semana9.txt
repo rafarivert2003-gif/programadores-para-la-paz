@@ -1,0 +1,9 @@
+Las plataformas tecnológicas utilizadas por las comunidades deben funcionar de manera estable para garantizar 
+que los usuarios puedan acceder a los servicios en cualquier momento. Un servidor confiable permite responder 
+correctamente a las solicitudes y mantener disponible la información. Además, los registros o logs ayudan a 
+detectar errores y realizar mantenimiento oportuno. El monitoreo constante permite prevenir fallos y mejorar 
+el rendimiento de la plataforma. También es fundamental proteger el servidor mediante buenas prácticas de 
+seguridad para evitar accesos no autorizados y pérdida de información. La estabilidad y la seguridad 
+fortalecen la confianza de los ciudadanos en los servicios digitales. Un entorno bien administrado facilita
+la continuidad de los procesos comunitarios y la participación de los usuarios. En conclusión, un servidor 
+estable y seguro es la base para ofrecer plataformas tecnológicas confiables y eficientes.
