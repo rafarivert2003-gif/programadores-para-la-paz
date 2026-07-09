@@ -1,0 +1,8 @@
+Las metodologías ágiles permiten organizar el trabajo de manera ordenada, priorizando las tareas más importantes y facilitando 
+la colaboración entre los integrantes del equipo. El uso de un backlog ayuda a planificar el desarrollo de una solución tecnológica 
+mediante pequeñas entregas que pueden revisarse y mejorarse continuamente. La automatización mediante herramientas como n8n reduce 
+tareas repetitivas y mejora la eficiencia en los procesos. Por su parte, Telegram puede utilizarse como un canal de comunicación para 
+enviar notificaciones y coordinar actividades sin compartir información sensible. Estas herramientas favorecen la organización, 
+el seguimiento y la transparencia dentro de proyectos comunitarios. Además, permiten responder con mayor rapidez a las necesidades 
+de los ciudadanos. En conjunto, las metodologías ágiles y la automatización contribuyen a desarrollar plataformas más eficientes, 
+colaborativas y confiables.
