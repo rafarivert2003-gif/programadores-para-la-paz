@@ -1,0 +1,9 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy importante para fortalecer 
+la participación ciudadana y la organización comunitaria. También comprendí cómo una plataforma puede 
+registrar información, organizar datos y facilitar el seguimiento de las actividades de una comunidad. 
+Aprendí conceptos relacionados con servidores, bases de datos, autenticación, metodologías ágiles y 
+automatización. Además, entendí la importancia de proteger la información sensible y utilizar herramientas 
+tecnológicas de manera responsable. El desarrollo de estas actividades permitió conocer cómo integrar 
+diferentes componentes para construir soluciones útiles para la sociedad. Finalmente, comprendí que 
+una buena organización, la colaboración y el uso adecuado de la tecnología contribuyen a mejorar la 
+gestión de proyectos comunitarios y fortalecer la participación de los ciudadanos.
