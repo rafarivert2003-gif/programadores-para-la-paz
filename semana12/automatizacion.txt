@@ -1,0 +1,11 @@
+Automatización del sistema
+
+Evento que activa la automatización:
+Se registra una nueva causa en la plataforma.
+
+Mensaje enviado:
+"Nueva causa registrada. Revisar la plataforma para realizar el seguimiento correspondiente."
+
+Información que no debe enviarse:
+No deben enviarse documentos de identidad, números telefónicos, direcciones, comentarios privados, contraseñas, 
+claves de acceso ni ningún dato personal o sensible de los ciudadanos.
